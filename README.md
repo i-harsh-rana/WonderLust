@@ -7,12 +7,11 @@ WonderLust is a web application that allows users to discover and share unique t
 ##  Table of Contents
 - Features
 - Technologies Used
+- Environment Variables
 - Installation
 - Usage
-- Environment Variables
-- File Structure
 - Screenshots
-- Contributing
+- Acknowledgements
 
 ## Features
 - User Authentication: Secure user registration and login functionality using Passport.js.
